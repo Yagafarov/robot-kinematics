@@ -4,7 +4,9 @@
 
 This project is an interactive application for simulating the kinematics of a robot using Three.js and WebGL. Users can input the lengths of the links and the angles of the joints, and the application will compute and display the end position of the robot in 3D space.
 
-[Demo live]()
+[Demo live](https://robot-kinematics.netlify.app/)
+
+[Creatored by CodeWithDin](https://anodra.uz)
 
 ## Installation
 
